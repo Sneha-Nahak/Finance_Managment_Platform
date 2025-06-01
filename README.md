@@ -123,7 +123,7 @@ The project is structured as a full-stack application with separate `backend` an
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone [<repository_url>](https://github.com/Sneha-Nahak/Finance_Managment_Platform.git)
     cd Finance_Management_Platform
     ```
 
